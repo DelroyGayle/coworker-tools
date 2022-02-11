@@ -17,3 +17,5 @@ const members = [{
                 }];
 
 module.exports = members;
+
+console.table(members)

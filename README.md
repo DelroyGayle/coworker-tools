@@ -35,3 +35,18 @@ In GitHub:
 7. Move the issue card to the _Review/QA_ column
 8. Once the reviewer has approved your PR you can merge the branch by clicking the merge button
 9. Finally, move the issue to the _Done_ column 🎉
+
+
+## Running the CLI
+
+To run the CLI (command line interface):
+
+```bash
+npm start 
+```
+
+For example:
+
+```bash
+npm start list
+```
